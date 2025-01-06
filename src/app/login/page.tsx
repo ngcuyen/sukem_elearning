@@ -14,7 +14,7 @@ export default function Login() {
                     Sign in
                   </h3>
                   <p className="text-sm mt-4 text-gray-800">
-                    Donot have an account?
+                    Do not have an account?
                     <a
                       href="/register"
                       className="text-blue-600 font-semibold hover:underline ml-1 whitespace-nowrap"
